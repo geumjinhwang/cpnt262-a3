@@ -1,0 +1,7 @@
+# npm dependency directory
+node_modules
+
+# dotenv environment
+.env
+.env.test
+
